@@ -1,0 +1,9 @@
+/* src/components/Board.css */
+.board {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px;
+  max-width: 500px; /* Or adjust as needed */
+  margin: 0 auto;
+}
